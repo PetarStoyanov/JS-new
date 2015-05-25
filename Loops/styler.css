@@ -1,0 +1,30 @@
+﻿body
+{
+    text-align:center;
+    background-color:black;
+}
+body > div,input[type="text"] { 
+    text-align:center;
+    border:2px solid lime;
+    min-width:230px;
+    max-width:800px;
+    min-height:15px;
+    padding:5px 10px 5px 10px;
+    display:inline-block;
+    color:lime;
+    background-color:black;
+    margin-top:10px;
+}
+hr { 
+    color:lime;
+    width:95%;
+}
+button  {
+    margin-top:10px;
+    border:1px solid lime;
+    color:red;
+    background-color:black;
+}
+h2 { 
+    color:red;
+}
